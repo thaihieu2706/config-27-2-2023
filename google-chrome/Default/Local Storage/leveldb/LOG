@@ -1,0 +1,9 @@
+2023/02/27-17:06:29.380 3 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/27-17:06:29.384 3 Recovering log #6
+2023/02/27-17:06:29.387 3 Reusing old log /home/thaihieu/.config/google-chrome/Default/Local Storage/leveldb/000006.log 
+2023/02/27-17:11:39.293 3 Level-0 table #10: started
+2023/02/27-17:11:39.304 3 Level-0 table #10: 90047 bytes OK
+2023/02/27-17:11:39.309 3 Delete type=0 #6
+2023/02/27-17:30:33.013 3 Level-0 table #12: started
+2023/02/27-17:30:33.021 3 Level-0 table #12: 70447 bytes OK
+2023/02/27-17:30:33.027 3 Delete type=0 #9

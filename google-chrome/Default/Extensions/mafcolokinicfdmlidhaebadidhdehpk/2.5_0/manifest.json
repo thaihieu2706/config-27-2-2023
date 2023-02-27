@@ -1,0 +1,21 @@
+{
+   "action": {
+      "default_icon": "icons/icon_32.png"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Simply Download & Save stories from Facebook, Instagram, and WhatsApp.",
+   "host_permissions": [ "*://*.instagram.com/*", "*://*.facebook.com/*", "*://*.whatsapp.com/*" ],
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_16.png",
+      "48": "icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk1ati3axF34BbCjYYWJSeeB6hFxOpZT2c0RGr8zrmGHM2/ti6ISKGEBNE+akZIEKjvb7zTa9xMkCb664JEQxuopkcfVSfnMfpVZwMpmMNgo/8fLE0W5NjfW544r85G50CpYk2xE8fdYh8E97/N9+zx9maNS6hbrgJg3J6l+Y4aeaIcdL/6iL5u3aK3XuAiuX4ieSrNC5ymHUWx6nNC7VPG0I5IENNJq+hwC7+561zD2YZkdvH6kcJOTZBrRbOV5V1e2uUhypMsbSkW9DXeu5KVaU2vZTZio3EVzGfrV3bEz8BABVPSMGPcLedsUPGXWdPfAHOLZhn68upQUVSHd4FQIDAQAB",
+   "manifest_version": 3,
+   "name": "Story Saver",
+   "permissions": [ "declarativeContent", "downloads", "scripting", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.5"
+}

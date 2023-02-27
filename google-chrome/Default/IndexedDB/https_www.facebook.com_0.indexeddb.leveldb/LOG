@@ -1,0 +1,13 @@
+2023/02/27-17:39:56.331 3b0 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/27-17:39:56.331 3b0 Recovering log #18
+2023/02/27-17:39:56.331 3b0 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000018.log 
+2023/02/27-17:39:58.354 3b0 Level-0 table #22: started
+2023/02/27-17:39:58.355 3b0 Level-0 table #22: 511 bytes OK
+2023/02/27-17:39:58.357 3b0 Delete type=0 #18
+2023/02/27-17:39:58.357 3b0 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 18197 : 1
+2023/02/27-17:39:58.357 3b0 Compacting 1@0 + 1@1 files
+2023/02/27-17:39:58.364 3b0 Generated table #23@0: 3934 keys, 51641 bytes
+2023/02/27-17:39:58.364 3b0 Compacted 1@0 + 1@1 files => 51641 bytes
+2023/02/27-17:39:58.366 3b0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/27-17:39:58.366 3b0 Delete type=2 #22
+2023/02/27-17:39:58.366 3b0 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 18197 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
